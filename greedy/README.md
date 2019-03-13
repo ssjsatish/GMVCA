@@ -1,0 +1,1 @@
+list of problems and their solution related to greedy algorithms
